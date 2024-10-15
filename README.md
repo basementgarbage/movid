@@ -18,6 +18,9 @@
 - ⚡Lightweight, and tested and LineageOS TV.  
   
 
+##
+<img src="Screencap.png" align="center" height="" width="800px" />
+ScreenShot of Home Screen
 <br/>  
 
 
