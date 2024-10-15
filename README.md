@@ -1,9 +1,9 @@
 <div align="center">
-<img src="icon" align="center" height="" width="600" />
+<img src="banner.png" align="center" height="" width="400px" />
 </div>  
   
 
-### <div align="center">Movid. a Movie-Web/VidBinge AndroidTV Web Client.</div>  
+### <div align="center"> <img src="icon.png" align="center" height="" width="50px" /> Movid. a Movie-Web/VidBinge AndroidTV Web Client.</div>  
   
 
 - 🎥 Supports [not-movie-web](https://not-movie-web.app/), [movie-web](https://movie-web-me.vercel.app/) and [VidBinge](https://github.com/VidBingeApp/VidBinge)  
